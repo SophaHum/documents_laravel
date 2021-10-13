@@ -10,4 +10,4 @@ use Illuminate\Database\Schema\Builder;
         Builder::defaultStringLength(191);
     }
 ##  for window
-install composer in xame or wamp and then cut path it to setting your pc in variable 
+install composer in xame or wamp and then cut path of php in wamp or xam to setting your pc in variable 
