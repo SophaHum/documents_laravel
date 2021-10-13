@@ -6,7 +6,6 @@ use Illuminate\Database\Schema\Builder;
 #other one
  public function boot()
     {
-        //
         Builder::defaultStringLength(191);
     }
 ##  for window
