@@ -1,0 +1,2 @@
+- sudo vim /etc/postgresql/12/main/postgresql.conf change all to "trust"
+- And then sudo systemctl restart postgresql 
