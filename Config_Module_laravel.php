@@ -1,3 +1,5 @@
+https://nwidart.com/laravel-modules/v1/advanced-tools/artisan-commands
+
 First step run this command before rename Module "php artisan module:make Blog"
 config/modules.php
 change 'namespace' => 'FWTA',
