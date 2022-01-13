@@ -1,3 +1,4 @@
+First step run this command before rename Module "php artisan module:make Blog"
 config/modules.php
 change 'namespace' => 'FWTA',
 And then in composer.json
